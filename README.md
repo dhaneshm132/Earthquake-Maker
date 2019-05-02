@@ -1,2 +1,2 @@
-# Earthquake-Maker
-Earthquake Maker in Map  using java Applet
+# Earthquake-Marker
+Earthquake Marker in Map  using java Applet
